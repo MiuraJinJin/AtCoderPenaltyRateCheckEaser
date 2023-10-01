@@ -66,9 +66,9 @@ $(() => {
 <div>
 <table id="acsa-table" class="table table-bordered table-hover th-center td-center td-middle">
   <thead>
-    <th style="width: 34%">ノーペナ人数/提出人数</th>
+    <th style="width: 34%">ノーペナ者数/提出者数</th>
     <th style="width: 33%">ペナルティ率</th>
-    <th style="width: 33%">正解人数/提出人数</th>
+    <th style="width: 33%">正解者数/提出者数</th>
   </thead>
   <tbody>
     <td>${ totalCount - penaltyCount }/${ totalCount }</td>
